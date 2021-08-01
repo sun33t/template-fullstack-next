@@ -1,0 +1,13 @@
+{
+  "name": "@right-the-rules/root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+"scripts": {
+  "prepare": "yarn lerna bootstrap"
+},
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}

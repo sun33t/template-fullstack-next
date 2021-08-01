@@ -11,7 +11,7 @@
 - Prop-Types for type checking
 
 
-      ## Authors
+## Authors
 
 - [@sun33t](https://www.github.com/sun33t)
 

@@ -9,3 +9,13 @@
 - Linting and Formatting with ESlint and Prettier using AirBnB (removed next lint in favour of this custom setup).
 - Unit tests with @testing-library. Custom jest.config.js to enable transforming of jsx to js with babel-jest
 - Prop-Types for type checking
+
+
+      ## Authors
+
+- [@sun33t](https://www.github.com/sun33t)
+
+  
+## Feedback
+
+If you have any feedback, please reach out to me at hello@suneet.codes

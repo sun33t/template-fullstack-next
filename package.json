@@ -1,5 +1,5 @@
 {
-  "name": "@right-the-rules/root",
+  "name": "@next-sanity-bootstrap/root",
   "private": true,
   "workspaces": [
     "packages/*"

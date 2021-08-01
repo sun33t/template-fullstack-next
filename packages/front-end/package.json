@@ -9,7 +9,8 @@
     "test": "jest",
     "lint": "yarn eslint --fix \"./**/*.{js,jsx,ts,tsx,json}\"",
     "format": "yarn prettier --write \"./**/*.{js,jsx,ts,tsx,json,css,scss,md}\" --ignore-path .gitignore",
-    "pre-commit": "lint-staged"
+    "pre-commit": "lint-staged",
+    "pre-push": "yarn jest --coverage"
   },
   "dependencies": {
     "@emotion/babel-plugin": "^11.3.0",

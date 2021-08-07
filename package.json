@@ -1,5 +1,5 @@
 {
-  "name": "@next-sanity-bootstrap/root",
+  "name": "template-fullstack-with-next",
   "private": true,
   "workspaces": [
     "packages/*"

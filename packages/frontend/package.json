@@ -32,11 +32,6 @@
     "jest": "^27.0.6"
   },
   "prettier": "@sun33t/prettier-config",
-  "eslintConfig": {
-    "extends": [
-      "@sun33t/eslint-config/javascript/next"
-    ]
-  },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,json}": [
       "eslint --fix"
